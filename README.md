@@ -17,4 +17,5 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
     mkdir .icons
  <br>
  **get your themes and move your icons and cursor to .icons and your gtk and shell theme to .themes**
+ <br>
  - if you want my specific theme make an issue and ill add it 
