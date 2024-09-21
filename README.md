@@ -10,3 +10,7 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
  3. [magic lamp](https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/)
  4. [compiz windows](https://extensions.gnome.org/extension/3210/compiz-windows-effect/)
  5. [blur my shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)
+**create a theme directory**
+
+    mkdir .themes
+    mkdir .icons
