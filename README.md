@@ -21,8 +21,6 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
 
 <br>
 
-<br>
-
     mkdir .themes
     mkdir .icons
 
