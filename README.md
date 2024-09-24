@@ -13,6 +13,7 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
  
  **create a theme directory**
  <br>
+ <br>
 
     mkdir .themes
     mkdir .icons
