@@ -88,7 +88,15 @@ if you found this guide helpfull and would like to fix typos i would apricciate 
 <br>
 
 # byeeeeeeeee :D
-     
+
+<br>
+
+**credits and sources**
+<br>
+[shell/gtk theme](https://www.gnome-look.org/p/2014493)
+[cursors](https://www.gnome-look.org/p/1818760)
+[icons](https://www.pling.com/p/1686927/)
+
 
 
 
