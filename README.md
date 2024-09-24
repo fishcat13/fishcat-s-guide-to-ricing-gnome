@@ -58,6 +58,7 @@ go to the gnome tweaks app and equip the theme you chose
 
 <br>
 **it should look like this**
+<br>
 
 <br>
 
