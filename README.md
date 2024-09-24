@@ -12,6 +12,7 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
  5. [blur my shell](https://extensions.gnome.org/extension/3193/blur-my-shell/)  <br>
  
  **create a theme directory**
+ <br>
 
     mkdir .themes
     mkdir .icons
