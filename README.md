@@ -30,15 +30,15 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
 <br>
 **you may have noticed the theme does not apply to all apps**
 <br>
-***lucily this can be fixed***
+**lucily this can be fixed**
 <br>
     vim /etc/environment  
 <br>    
-***it should look like this***
+**it should look like this**
 <br>
      GTK_THEME=Your-Theme-Name
 <br>
-***this should work perfectly on all not flatpak apps***
+**this should work perfectly on all not flatpak apps**
 <br>
 to fix it on flatpak
 <br>
@@ -53,7 +53,7 @@ to fix it on flatpak
 <br>
 if you found this guide helpfull and would like to fix typos i would apricciate it 
 <br>
-*byeeeeeeeee :D*
+**byeeeeeeeee :D**
      
 
 
