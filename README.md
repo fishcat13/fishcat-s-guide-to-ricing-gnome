@@ -1,4 +1,6 @@
 # fishcat's guide to ricing gnome
+![](https://github.com/fishcat13/fishcat-s-guide-to-ricing-gnome/blob/main/rice-screenshot.png)
+
 **everything you need to know to turn gnome into a modern butifull desktop with gnome**
 
 
