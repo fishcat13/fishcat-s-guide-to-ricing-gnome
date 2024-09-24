@@ -1,4 +1,4 @@
-# fishcat-s-guide-to-ricing-gnome
+# fishcat's guide to ricing gnome
 everything you need to know to turn gnome into a modern butifull desktop with gnome 
 
 
@@ -18,7 +18,42 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
  <br>
  **get your themes and move your icons and cursor to .icons and your gtk and shell theme to .themes**
  <br>
- if you want my specific theme make an issue and ill add it 
-
+ ***i will add a theme directory with the theme and wallpaper i use***
+ <br>
+ if youre using mine the file contains three themes (i use the dark one)
+ <br>
+ go to extentions and enable user themes 
+ <br>
+ go to the gnome tweaks app and equip the theme you chose 
 <br>
-ill update soon
+**you may have noticed the theme does not apply to all apps**
+<br>
+***lucily this can be fixed***
+<br>
+    vim /etc/environment  
+<br>    
+***it should look like this***
+<br>
+     GTK_THEME=Your-Theme-Name
+<br>
+***this should work perfectly on all not flatpak apps***
+<br>
+to fix it on flatpak
+<br>
+     flatpak --user override --filesystem=/home/$USER/.icons/:ro
+     flatpak --user override --filesystem=/usr/share/icons/:ro 
+     flatpak --user override --filesystem=~/.config/gtk-4.0
+     flatpak --user override --filesystem=~/.themes
+<br>
+if you found this guide helpfull and would like to fix typos i would apricciate it 
+<br>
+*byeeeeeeeee :D*
+     
+
+
+
+     
+
+
+
+
