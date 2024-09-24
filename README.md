@@ -20,7 +20,7 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
  <br>
  **get your themes and move your icons and cursor to .icons and your gtk and shell theme to .themes**
  <br>
- ***i will add a theme directory with the theme and wallpaper i use***
+ ###i will add a theme directory with the theme and wallpaper i use
  <br>
  if youre using mine the file contains three themes (i use the dark one)
  <br>
