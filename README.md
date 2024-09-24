@@ -60,6 +60,7 @@ go to the gnome tweaks app and equip the theme you chose
 **it should look like this**
 
 <br>
+
      GTK_THEME=Your-Theme-Name
 
 <br>
