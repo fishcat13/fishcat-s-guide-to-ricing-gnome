@@ -58,7 +58,6 @@ go to the gnome tweaks app and equip the theme you chose
 
     vim /etc/environment  
 
-<br>    
 <br>
 **it should look like this**
 
