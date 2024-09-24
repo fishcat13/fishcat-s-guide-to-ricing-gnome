@@ -53,7 +53,7 @@ to fix it on flatpak
 <br>
 if you found this guide helpfull and would like to fix typos i would apricciate it 
 <br>
-**byeeeeeeeee :D**
+## **byeeeeeeeee :D**
      
 
 
