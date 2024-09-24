@@ -40,10 +40,12 @@ everything you need to know to turn gnome into a modern butifull desktop with gn
 <br>
 to fix it on flatpak
 <br>
+
      flatpak --user override --filesystem=/home/$USER/.icons/:ro
      flatpak --user override --filesystem=/usr/share/icons/:ro 
      flatpak --user override --filesystem=~/.config/gtk-4.0
      flatpak --user override --filesystem=~/.themes
+
 <br>
 if you found this guide helpfull and would like to fix typos i would apricciate it 
 <br>
