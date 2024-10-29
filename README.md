@@ -48,6 +48,22 @@ go to the gnome tweaks app and equip the theme you chose
 
 <br>
 
+now all you need is to change the gtk adwite theme with a script 
+which i will provide a link for tho there obviously other ways to do it manually
+
+<br>
+
+credit to [this guy](https://github.com/odziom91/libadwaita-theme-changer)
+
+<br>
+
+    git clone https://github.com/odziom91/libadwaita-theme-changer.git
+    cd libadwaita-theme-changer
+    chmod +x libadwaita-tc.py
+    ./libadwaita-tc.py
+
+<br>
+
 **you may have noticed the theme does not apply to all apps**
 
 <br>
